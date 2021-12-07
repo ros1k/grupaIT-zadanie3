@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+body {
+  /* background-color: #282c34; */
+  font-family: Verdana, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
